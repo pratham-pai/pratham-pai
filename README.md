@@ -26,8 +26,6 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 
 ![Visitor Count](https://profile-counter.glitch.me/pratham-pai/count.svg)
 
-<img align='right' src = "https://github.com/pratham-pai/github-stats-transparent/blob/output/generated/languages.svg">
-
 
 <br>
 <div align="center">
