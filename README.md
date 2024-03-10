@@ -52,6 +52,7 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%230099ff?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQLite3](https://img.shields.io/badge/SQLite3-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 🧮 **Frameworks, Platforms and Libraries**
 
