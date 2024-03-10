@@ -64,6 +64,11 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%234282B4.svg?style=for-the-badge&logo=Python&logoColor=white)
+![SQLite3](https://img.shields.io/badge/sqlite3-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Tabulate](https://img.shields.io/badge/tabulate-%231721A8.svg?style=for-the-badge&logo=python&logoColor=white)
+![Hashlib](https://img.shields.io/badge/hashlib-%232C91D8.svg?style=for-the-badge&logo=python&logoColor=white)
+![PyOTP](https://img.shields.io/badge/PyOTP-%232C91D8.svg?style=for-the-badge&logo=python&logoColor=white)
+![Qrcode](https://img.shields.io/badge/Qrcode-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 
 💻 **IDE/Editors**
 
