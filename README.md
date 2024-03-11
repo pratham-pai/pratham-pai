@@ -110,10 +110,6 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 ![Avast](https://img.shields.io/badge/Avast-4F2E7E?style=for-the-badge&logo=avast&logoColor=white)
 ![Bitdefender](https://img.shields.io/badge/Bitdefender-ED1C24?style=for-the-badge&logo=bitdefender&logoColor=white)
 
-<div align="center">
-  <img align="center" src="code.jpg">
-</div>
-
 <br>
 <div align="center">
    <h1 align="center">Ａｂｏｕｔ ｍｅ</h1>
