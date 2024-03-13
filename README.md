@@ -22,13 +22,6 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 
 <br>
 <div align="center">
-   <h1 align="center">Ｖｉｓｉｔｏｒｓ Ｃｏｕｎｔ</h1>
-
-![Visitor Count](https://profile-counter.glitch.me/pratham-pai/count.svg)
-
-
-<br>
-<div align="center">
    <h1 align="center">Ｔｅｃｈ Ｓｔａｃｋ</h1>
 
 
@@ -135,3 +128,14 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pratham_pai/)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prathampai13)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/917022226552)
+
+<br>
+<div align="center">
+   <h1 align="center">Ｖｉｓｉｔｏｒｓ Ｃｏｕｎｔ</h1>
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/pratham-pai/count.svg) -->
+
+<a href="https://count.nett.moe" target="blank">
+    <img src="https://count.nett.moe/get/pratham-pai/img?theme=rule34" />
+</a>
+
