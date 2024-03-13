@@ -11,10 +11,14 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 - Sound knowledge in Python and passion for Cloud Computing.
 - Proficient in staying updated on the latest trends in:
   - Mobile devices
-  - Operating systems
-  - Programming languages
   - Web browsers
   - Antivirus applications
+  - Troubleshooting
+  - Software architecture
+  - Programming languages
+  - Database management
+  - Cloud services
+  - Microsoft office 365
 
 <div align="center">
   <img align="center" src="languages.png">
