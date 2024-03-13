@@ -63,6 +63,9 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 ![Hashlib](https://img.shields.io/badge/hashlib-%232C91D8.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PyOTP](https://img.shields.io/badge/PyOTP-%232C91D8.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Qrcode](https://img.shields.io/badge/Qrcode-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
+![tkinter](https://img.shields.io/badge/tkinter-%235849A6.svg?style=for-the-badge&logo=python&logoColor=white)
+![os](https://img.shields.io/badge/os-%232C91D8.svg?style=for-the-badge&logo=python&logoColor=white)
+![Forex](https://img.shields.io/badge/forex-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 
 💻 **IDE/Editors**
 
