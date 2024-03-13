@@ -86,8 +86,11 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 
 🌐 **Browsers**
 
-[![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://www.opera.com/)
-[![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
+[![Opera ONE](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)](https://www.opera.com/)
+[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.google.com/chrome/)
+[![Mozilla Firefox](https://img.shields.io/badge/Mozilla%20Firefox-FF7139?style=for-the-badge&logo=Mozilla%20Firefox&logoColor=white)](https://www.mozilla.org/firefox/new)
+[![Microsoft Edge](https://img.shields.io/badge/Microsoft%20Edge-0ff80?style=for-the-badge&logo=MicrosoftEdge&logoColor=white)](https://www.microsoft.com/edge)
+[![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://brave.com/)
 
 ☁️ **Hosting/SaaS**
 
