@@ -101,7 +101,7 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 🤖 **Artificial Intelligence: Chat Bots and Virtual Assistants**
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-AI%20Bot-blue?style=for-the-badge)
-![Bard](https://img.shields.io/badge/Bard-AI%20Bot-green?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Bard-AI%20Bot-green?style=for-the-badge)
 ![Aria](https://img.shields.io/badge/Aria-AI%20Bot-purple?style=for-the-badge)
 ![Google Assistant](https://img.shields.io/badge/Google%20Assistant-Virtual%20Assistant-red?style=for-the-badge)
 ![Cortana](https://img.shields.io/badge/Cortana-Virtual%20Assistant-blueviolet?style=for-the-badge)
