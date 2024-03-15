@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" src="dino.gif">
+  <img align="center" src="output/dino.gif">
 </div>
 
 ### About Me
@@ -21,7 +21,7 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
   - Microsoft office 365
 
 <div align="center">
-  <img align="center" src="languages.png">
+  <img  src="output/snake.svg"  alt="Snake animation"  />
 </div>
 
 <br>
@@ -33,6 +33,7 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
 
 📓 **Languages**
 
@@ -63,13 +64,10 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%234282B4.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![SQLite3](https://img.shields.io/badge/sqlite3-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Tabulate](https://img.shields.io/badge/tabulate-%231721A8.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Hashlib](https://img.shields.io/badge/hashlib-%232C91D8.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PyOTP](https://img.shields.io/badge/PyOTP-%232C91D8.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Qrcode](https://img.shields.io/badge/Qrcode-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 ![tkinter](https://img.shields.io/badge/tkinter-%235849A6.svg?style=for-the-badge&logo=python&logoColor=white)
-![os](https://img.shields.io/badge/os-%232C91D8.svg?style=for-the-badge&logo=python&logoColor=white)
-![Forex](https://img.shields.io/badge/forex-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
 
 💻 **IDE/Editors**
 
@@ -79,9 +77,9 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%2300f.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Beekeeper Studio](https://img.shields.io/badge/Beekeeper%20Studio-%2360C2BE.svg?style=for-the-badge&logo=DataStax&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=semanticuireact&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![CodeBlocks](https://img.shields.io/badge/CodeBlocks-%23000000.svg?style=for-the-badge&logo=CodeBlocks&logoColor=white)
 
 🌐 **Browsers**
@@ -103,8 +101,9 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-AI%20Bot-blue?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Bard-AI%20Bot-green?style=for-the-badge)
 ![Aria](https://img.shields.io/badge/Aria-AI%20Bot-purple?style=for-the-badge)
+![Claude AI](https://img.shields.io/badge/Claude.AI-AI%20Bot-9cf?style=for-the-badge)
 ![Google Assistant](https://img.shields.io/badge/Google%20Assistant-Virtual%20Assistant-red?style=for-the-badge)
-![Cortana](https://img.shields.io/badge/Cortana-Virtual%20Assistant-blueviolet?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-AI%20Assistant-9cf?style=for-the-badge)
 
 🛡️ **Antivirus Applications**
 
@@ -112,6 +111,7 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 ![McAfee](https://img.shields.io/badge/McAfee-C01818?style=for-the-badge&logo=mcafee&logoColor=white)
 ![Avast](https://img.shields.io/badge/Avast-4F2E7E?style=for-the-badge&logo=avast&logoColor=white)
 ![Bitdefender](https://img.shields.io/badge/Bitdefender-ED1C24?style=for-the-badge&logo=bitdefender&logoColor=white)
+![Norton](https://img.shields.io/badge/Norton-50309C?style=for-the-badge&logo=Norton&logoColor=white)
 
 <br>
 <div align="center">
@@ -143,9 +143,6 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 <div align="center">
    <h1 align="center">Ｖｉｓｉｔｏｒｓ Ｃｏｕｎｔ</h1>
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/pratham-pai/count.svg) -->
-
 <a href="https://count.nett.moe" target="blank">
     <img src="https://count.nett.moe/get/pratham-pai/img?theme=rule34" />
 </a>
-
