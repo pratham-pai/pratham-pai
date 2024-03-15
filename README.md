@@ -33,7 +33,7 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-%23F05033.svg?style=for-the-badge&logo=replit&logoColor=white)
 
 📓 **Languages**
 
