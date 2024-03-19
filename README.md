@@ -3,6 +3,8 @@
 </div>
 
 ### About Me
+Hi, I'm Pratham Pai, an ISE graduate from Sir. M Visvesvaraya Institute of Technology, Bangalore.
+Actively seeking Python Development / Data Analysis / Cloud Engineer roles - Find resume link here -> [Pratham Pai's Resume](https://drive.google.com/drive/folders/162YKBjx39l2kYi-hKrkzV2eDapIQerL_?usp=sharing)
 
 I'm a person who is naturally drawn to logical problem-solving and enjoy working with data-driven approaches. I find satisfaction in analyzing information, identifying patterns, and deriving insights to make informed decisions. I consistently adopt a calm and logical approach to challenges.
 
