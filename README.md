@@ -123,9 +123,9 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 🎨 **Hobbies**
 
 ![Open Source Contribution](https://img.shields.io/badge/Open%20Source%20Contribution-0078D4.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)
-![Documentation](https://img.shields.io/badge/Documentation-Enthusiast-%2300ADD8.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Professional-%23694640.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Azure Services](https://img.shields.io/badge/Azure%20Services-Expert-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Documentation](https://img.shields.io/badge/Documentation-%2300ADD8.svg?style=for-the-badge&logo=read-the-docs&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-%23694640.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Azure Services](https://img.shields.io/badge/Azure%20Services-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white))
 ![Chess.com](https://img.shields.io/badge/Chess.com-%23FFA500.svg?style=for-the-badge&logo=lichess&logoColor=white)
 ![Rubik's Cubing](https://img.shields.io/badge/Rubik's%20Cubing-%23FF4500.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Turbo Collage Professional](https://img.shields.io/badge/Turbo%20Collage%20Professional-%23600FF6.svg?style=for-the-badge&logo=turbo&logoColor=white)
