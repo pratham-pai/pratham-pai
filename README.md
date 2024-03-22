@@ -75,12 +75,13 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 💻 **IDE/Editors**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![pgAdmin4](https://img.shields.io/badge/pgAdmin4-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
-![NotePad++](https://img.shields.io/badge/NotePad++-%23000000.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%2300f.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Beekeeper Studio](https://img.shields.io/badge/Beekeeper%20Studio-%2360C2BE.svg?style=for-the-badge&logo=DataStax&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=semanticuireact&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![NotePad++](https://img.shields.io/badge/NotePad++-%23000000.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![CodeBlocks](https://img.shields.io/badge/CodeBlocks-%23000000.svg?style=for-the-badge&logo=CodeBlocks&logoColor=white)
