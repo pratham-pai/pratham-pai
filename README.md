@@ -59,6 +59,7 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=Pandas&logoColor=white)
+![tkinter](https://img.shields.io/badge/tkinter-%235849A6.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23013243.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
@@ -70,7 +71,6 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 ![Hashlib](https://img.shields.io/badge/hashlib-%232C91D8.svg?style=for-the-badge&logo=python&logoColor=white)
 ![PyOTP](https://img.shields.io/badge/PyOTP-%232C91D8.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Qrcode](https://img.shields.io/badge/Qrcode-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
-![tkinter](https://img.shields.io/badge/tkinter-%235849A6.svg?style=for-the-badge&logo=python&logoColor=white)
 
 💻 **IDE/Editors**
 
