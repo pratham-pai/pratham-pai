@@ -42,23 +42,19 @@ Hi, I'm Pratham Pai, an Information Science Engineering graduate from Sir. M Vis
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%230099ff?style=for-the-badge&logo=gnubash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 🧬 **Data Technologies**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-%231721C7.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%23cc0000?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite3](https://img.shields.io/badge/SQLite3-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23ff471a?style=for-the-badge&logo=json)
+![Kafka](https://img.shields.io/badge/Kafka-%231721C7.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-%23156899.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-%231287B2.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-%23F5821F.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)
-![HBase](https://img.shields.io/badge/Apache%20HBase-%230A0A0A.svg?style=for-the-badge&logo=apache-hbase&logoColor=white)
-![Elastic](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-%231287B2.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-%23F5821F.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)
+![HBase](https://img.shields.io/badge/HBase-%230A0A0A.svg?style=for-the-badge&logo=apache-hbase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
@@ -68,7 +64,6 @@ Hi, I'm Pratham Pai, an Information Science Engineering graduate from Sir. M Vis
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=Pandas&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/tkinter-%235849A6.svg?style=for-the-badge&logo=python&logoColor=white)
-![SQLite3](https://img.shields.io/badge/SQLite3-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23013243.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
@@ -76,26 +71,34 @@ Hi, I'm Pratham Pai, an Information Science Engineering graduate from Sir. M Vis
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%234282B4.svg?style=for-the-badge&logo=Python&logoColor=white)
 
-🌐 **Web Technologies**
+🌐 **Web Technologies/Markup Languages/Scripting Languages**
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Bash Shell](https://img.shields.io/badge/Bash-%230099ff?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tcl](https://img.shields.io/badge/Tcl-%232D2D2D.svg?style=for-the-badge&logo=tcl&logoColor=white)
 
 💻 **IDE/Editors**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![pgAdmin4](https://img.shields.io/badge/pgAdmin4-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%2300f.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![Beekeeper Studio](https://img.shields.io/badge/Beekeeper%20Studio-%2360C2BE.svg?style=for-the-badge&logo=DataStax&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=semanticuireact&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![NotePad++](https://img.shields.io/badge/NotePad++-%23000000.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![CodeBlocks](https://img.shields.io/badge/CodeBlocks-%23000000.svg?style=for-the-badge&logo=CodeBlocks&logoColor=white)
+
+🗄️ **Database Management Tools**
+
+![pgAdmin4](https://img.shields.io/badge/pgAdmin4-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-%2300f.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Beekeeper Studio](https://img.shields.io/badge/Beekeeper%20Studio-%2360C2BE.svg?style=for-the-badge&logo=DataStax&logoColor=white)
+![psql Shell](https://img.shields.io/badge/psql%20Shell-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 🌐 **Browsers**
 
