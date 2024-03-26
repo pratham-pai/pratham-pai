@@ -37,15 +37,9 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-%23F05033.svg?style=for-the-badge&logo=replit&logoColor=white)
 
-📓 **Languages**
+📓 **Programming Languages**
 
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%23cc0000?style=for-the-badge&logo=json&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-%23ff471a?style=for-the-badge&logo=json)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -53,24 +47,40 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%230099ff?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQLite3](https://img.shields.io/badge/SQLite3-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+🧬 **Data Technologies**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-%231721C7.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%23cc0000?style=for-the-badge&logo=mysql&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-%23ff471a?style=for-the-badge&logo=json)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-%231287B2.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-%23F5821F.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)
+![HBase](https://img.shields.io/badge/Apache%20HBase-%230A0A0A.svg?style=for-the-badge&logo=apache-hbase&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 🧮 **Frameworks, Platforms and Libraries**
 
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=Pandas&logoColor=white)
-![tkinter](https://img.shields.io/badge/tkinter-%235849A6.svg?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/tkinter-%235849A6.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQLite3](https://img.shields.io/badge/SQLite3-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23013243.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-%234282B4.svg?style=for-the-badge&logo=Python&logoColor=white)
-![SQLite3](https://img.shields.io/badge/sqlite3-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Hashlib](https://img.shields.io/badge/hashlib-%232C91D8.svg?style=for-the-badge&logo=python&logoColor=white)
-![PyOTP](https://img.shields.io/badge/PyOTP-%232C91D8.svg?style=for-the-badge&logo=python&logoColor=white)
-![Qrcode](https://img.shields.io/badge/Qrcode-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
+
+🌐 **Web Technologies**
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 💻 **IDE/Editors**
 
@@ -104,12 +114,13 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-AI%20Bot-blue?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Bard-AI%20Bot-green?style=for-the-badge)
+![Perplexity](https://img.shields.io/badge/Perplexity-Measure%20of%20Language%20Model%20Performance-ff69b4?style=for-the-badge)
 ![Aria](https://img.shields.io/badge/Aria-AI%20Bot-purple?style=for-the-badge)
 ![Claude AI](https://img.shields.io/badge/Claude.AI-AI%20Bot-9cf?style=for-the-badge)
 ![Google Assistant](https://img.shields.io/badge/Google%20Assistant-Virtual%20Assistant-red?style=for-the-badge)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-AI%20Assistant-9cf?style=for-the-badge)
 
-🛡️ **Antivirus Applications**
+🛡️ **Antivirus Applications Experienced** 
 
 ![Kaspersky](https://img.shields.io/badge/Kaspersky-006DB7?style=for-the-badge&logo=kaspersky&logoColor=white)
 ![McAfee](https://img.shields.io/badge/McAfee-C01818?style=for-the-badge&logo=mcafee&logoColor=white)
@@ -131,12 +142,13 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 ![Rubik's Cubing](https://img.shields.io/badge/Rubik's%20Cubing-%23FF4500.svg?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Turbo Collage Professional](https://img.shields.io/badge/Turbo%20Collage%20Professional-%23600FF6.svg?style=for-the-badge&logo=turbo&logoColor=white)
 ![Origami](https://img.shields.io/badge/Origami-%23F0C300.svg?style=for-the-badge&logo=snapcraft&logoColor=white)
-![Hackathons](https://img.shields.io/badge/Hackathons-%23000000.svg?style=for-the-badge&logo=hackerrank&logoColor=white)
-![JRock](https://img.shields.io/badge/JRock-red?style=for-the-badge&logo=applemusic&logoColor=white)
-![Gaming](https://img.shields.io/badge/Gaming-000000?style=for-the-badge&logo=ubisoft&logoColor=white)
 ![Webinars](https://img.shields.io/badge/Webinars-%23008080.svg?style=for-the-badge&logo=microsoftteams&logoColor=white)
-![Tech meets](https://img.shields.io/badge/Tech%20meets-%23007ACC.svg?style=for-the-badge&logo=googlemeet&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-%236E41D1.svg?style=for-the-badge&logo=gimp&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-%234D4D4D.svg?style=for-the-badge&logo=autocad&logoColor=white)
 ![Abacus](https://img.shields.io/badge/Abacus-%23FF0000.svg?style=for-the-badge&logo=multisim&logoColor=white)
+![Encyclopedia Aficionado](https://img.shields.io/badge/Encyclopedia%20Aficionado-%23FF8C00.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
+![Hackathons](https://img.shields.io/badge/Hackathons-%23000000.svg?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Tech meets](https://img.shields.io/badge/Tech%20meets-%23007ACC.svg?style=for-the-badge&logo=googlemeet&logoColor=white)
 
 📞 **My Contacts**
 
