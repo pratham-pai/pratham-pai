@@ -3,10 +3,9 @@
 </div>
 
 ### About Me
-Hi, I'm Pratham Pai, an ISE graduate from Sir. M Visvesvaraya Institute of Technology, Bangalore.
+Hi, I'm Pratham Pai, an Information Science Engineering graduate from Sir. M Visvesvaraya Institute of Technology and a Software engineer proficient in Python and SQL, with expertise in web development, data analysis, and machine learning. Passionate about open-source contributions and continuous learning. Jack of all trades with a knack for problem-solving and collaboration. I consistently adopt a calm and logical approach to challenges.
 Actively seeking Python Development / Data Analysis / Cloud Engineer roles - Find the latest version of my resume here -> [Pratham Pai's Resume](https://drive.google.com/drive/folders/162YKBjx39l2kYi-hKrkzV2eDapIQerL_?usp=sharing)
 
-I'm a person who is naturally drawn to logical problem-solving and enjoy working with data-driven approaches. I find satisfaction in analyzing information, identifying patterns, and deriving insights to make informed decisions. I consistently adopt a calm and logical approach to challenges.
 
 #### Skills:
 
@@ -55,14 +54,16 @@ I'm a person who is naturally drawn to logical problem-solving and enjoy working
 ![MySQL](https://img.shields.io/badge/MySQL-%23cc0000?style=for-the-badge&logo=mysql&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-%23ff471a?style=for-the-badge&logo=json)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-%23156899.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/Apache%20Cassandra-%231287B2.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-%23F5821F.svg?style=for-the-badge&logo=apache-hadoop&logoColor=white)
 ![HBase](https://img.shields.io/badge/Apache%20HBase-%230A0A0A.svg?style=for-the-badge&logo=apache-hbase&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
 
-🧮 **Frameworks, Platforms and Libraries**
+🧮 **Frameworks and Libraries**
 
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=Pandas&logoColor=white)
