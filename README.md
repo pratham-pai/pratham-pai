@@ -132,10 +132,6 @@ Hi, I'm Pratham Pai, an Information Science Engineering graduate from Sir. M Vis
 ![Bitdefender](https://img.shields.io/badge/Bitdefender-ED1C24?style=for-the-badge&logo=bitdefender&logoColor=white)
 ![Norton](https://img.shields.io/badge/Norton-50309C?style=for-the-badge&logo=Norton&logoColor=white)
 
-<br>
-<div align="center">
-   <h1 align="center">Ａｂｏｕｔ ｍｅ</h1>
-
 🎨 **Hobbies**
 
 ![Open Source Contribution](https://img.shields.io/badge/Open%20Source%20Contribution-0078D4.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)
@@ -154,10 +150,14 @@ Hi, I'm Pratham Pai, an Information Science Engineering graduate from Sir. M Vis
 ![Hackathons](https://img.shields.io/badge/Hackathons-%23000000.svg?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![Tech meets](https://img.shields.io/badge/Tech%20meets-%23007ACC.svg?style=for-the-badge&logo=googlemeet&logoColor=white)
 
+<br>
+<div align="center">
+   <h1 align="center">Ａｂｏｕｔ ｍｅ</h1>
+
 📞 **My Contacts**
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-pai/)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:prathampaibm13@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-pai/)
 
 <br>
 <div align="center">
