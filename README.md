@@ -117,20 +117,22 @@ Hi, I'm Pratham Pai, an Information Science Engineering graduate from Sir. M Vis
 🤖 **Artificial Intelligence: Chat Bots and Virtual Assistants**
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-AI%20Bot-blue?style=for-the-badge)
+![Aria](https://img.shields.io/badge/Aria-Browser%20AI-purple?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Bard-AI%20Bot-green?style=for-the-badge)
-![Perplexity](https://img.shields.io/badge/Perplexity-Measure%20of%20Language%20Model%20Performance-ff69b4?style=for-the-badge)
-![Aria](https://img.shields.io/badge/Aria-AI%20Bot-purple?style=for-the-badge)
+![Perplexity](https://img.shields.io/badge/Perplexity-AI%20Bot-ff69b4?style=for-the-badge)
 ![Claude AI](https://img.shields.io/badge/Claude.AI-AI%20Bot-9cf?style=for-the-badge)
 ![Google Assistant](https://img.shields.io/badge/Google%20Assistant-Virtual%20Assistant-red?style=for-the-badge)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-AI%20Assistant-9cf?style=for-the-badge)
 
-🛡️ **Antivirus Applications Experienced** 
+🛡️ **Experience using Antivirus Applications** 
 
-![Kaspersky](https://img.shields.io/badge/Kaspersky-006DB7?style=for-the-badge&logo=kaspersky&logoColor=white)
-![McAfee](https://img.shields.io/badge/McAfee-C01818?style=for-the-badge&logo=mcafee&logoColor=white)
-![Avast](https://img.shields.io/badge/Avast-4F2E7E?style=for-the-badge&logo=avast&logoColor=white)
+![Kaspersky Premium Antivirus](https://img.shields.io/badge/Kaspersky-006DB7?style=for-the-badge&logo=kaspersky&logoColor=white)
+![McAfee Total Security](https://img.shields.io/badge/McAfee-C01818?style=for-the-badge&logo=mcafee&logoColor=white)
+![Kaspersky Endpoint Security](https://img.shields.io/badge/Kaspersky-006DB7?style=for-the-badge&logo=kaspersky&logoColor=white)
+![Avast Free Antivirust](https://img.shields.io/badge/Avast-4F2E7E?style=for-the-badge&logo=avast&logoColor=white)
 ![Bitdefender](https://img.shields.io/badge/Bitdefender-ED1C24?style=for-the-badge&logo=bitdefender&logoColor=white)
-![Norton](https://img.shields.io/badge/Norton-50309C?style=for-the-badge&logo=Norton&logoColor=white)
+![Norton Antivirus](https://img.shields.io/badge/Norton-50309C?style=for-the-badge&logo=Norton&logoColor=white)
+![Quick Heal Antivirus Pro](https://img.shields.io/badge/Quick%20Heal-0074C2?style=for-the-badge&logo=quickheal&logoColor=white)
 
 🎨 **Hobbies**
 
