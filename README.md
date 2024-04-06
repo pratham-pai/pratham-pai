@@ -4,7 +4,7 @@
 
 ### About Me
 Hi, I'm Pratham Pai, an Information Science Engineering graduate from Sir. M Visvesvaraya Institute of Technology and a Software engineer proficient in Python and SQL, with expertise in web development, data analysis, and machine learning. Passionate about open-source contributions and continuous learning. Jack of all trades with a knack for problem-solving and collaboration. I consistently adopt a calm and logical approach to challenges. Actively seeking Python Development / Data Analysis / Cloud Engineer roles. 
-- Find the latest version of my resume here -> [Pratham Pai's Resume](https://drive.google.com/file/d/1OAJonVkY8k3qyvfxETIKj5zZxkr-nUqL/view?usp=drive_link)
+- Find the latest version of my resume here -> [Pratham Pai's Resume](https://drive.google.com/file/d/1zPXH6DUQ3PdcZjSbgBfBwhZ8UqMpuAxa/view?usp=drive_link)
 
 
 #### Skills:
