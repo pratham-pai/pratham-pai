@@ -3,13 +3,20 @@
 </div>
 
 ### About Me
-Hi, I'm Pratham Pai, an Information Science Engineering graduate from Sir. M Visvesvaraya Institute of Technology and a Software engineer proficient in Python and SQL, with expertise in web development, data analysis, and machine learning. Passionate about open-source contributions and continuous learning. Jack of all trades with a knack for problem-solving and collaboration. I consistently adopt a calm and logical approach to challenges. Actively seeking Python Development / Data Analysis / Cloud Engineer roles. 
-- Find the latest version of my resume here -> [Pratham Pai's Resume](https://drive.google.com/file/d/1zPXH6DUQ3PdcZjSbgBfBwhZ8UqMpuAxa/view?usp=drive_link)
+Hi, I'm Pratham Pai, an Information Science Engineering graduate from Sir. M Visvesvaraya Institute of Technology and a Software engineer, Microsoft Azure Fundamentals Certified along with a sound knowledge in Python Libraries and PostgreSQL. I believe in the power of continuous learning. With a knack for problem-solving, collaboration and open source contribution, I consistently adopt a calm and logical approach to challenges. 
 
+Actively seeking roles in: 
+- Cloud Support Engineer
+- Junior Cloud Administrator
+- Azure DevOps Engineer
+- Technical Support Analyst
+- Cloud Sales Associate
+- Junior Cloud Consultant
+- Azure Data Analyst
 
 #### Skills:
 
-- Sound knowledge in Python/SQL and passion for Cloud Computing.
+- Sound knowledge in Python & SQL.
 - Proficient in staying updated on the latest trends in:
   - Mobile devices
   - Web browsers
@@ -18,9 +25,9 @@ Hi, I'm Pratham Pai, an Information Science Engineering graduate from Sir. M Vis
   - Software architecture
   - Programming languages
   - Database management
-  - Cloud services
   - Microsoft office 365
-
+  - Restful APIs
+ 
 <div align="center">
   <img  src="output/snake.svg"  alt="Snake animation"  />
 </div>
