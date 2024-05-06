@@ -27,6 +27,7 @@ Actively seeking roles in:
   - Database management
   - Microsoft office 365
   - Restful APIs
+  - Containerization Orchestration 
  
 <div align="center">
   <img  src="output/snake.svg"  alt="Snake animation"  />
