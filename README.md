@@ -13,6 +13,8 @@ Actively seeking roles in:
 - Cloud Sales Associate
 - Junior Cloud Consultant
 - Azure Data Analyst
+- Cloud Network Engineer
+- System Administrator
 
 #### Skills:
 
