@@ -5,7 +5,7 @@
 ### About Me
 Hi, I'm Pratham Pai, an Information Science Engineering graduate from Sir. M Visvesvaraya Institute of Technology and a Software engineer, Microsoft Azure Fundamentals Certified along with a sound knowledge in Python Libraries and PostgreSQL. I believe in the power of continuous learning. With a knack for problem-solving, collaboration and open source contribution, I consistently adopt a calm and logical approach to challenges. 
 
-Actively seeking roles in: 
+Actively seeking entry level roles / internship in: 
 - Cloud Support Engineer
 - Junior Cloud Administrator
 - Azure DevOps Engineer
