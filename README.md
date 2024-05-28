@@ -28,7 +28,6 @@ Actively seeking entry level roles / internship in:
   - Programming languages
   - Database management
   - Microsoft office 365
-  - Restful APIs
   - Containerization Orchestration 
  
 <div align="center">
